@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  background-color: black;
+  margin-top: 150px;
+  border-radius: 40px;
+  padding: 20px;
+  width: 400px;
+  
+  
+}
+
+
+.profile{
+  display: flex;
+  flex-direction: column;
+  background-color:  rgb(14, 13, 13);
+  
+  border-radius: 20px;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+  color:white;
+  padding: 20px ;
+}
+.PhotoProfile{
+  border-radius: 10px;
+  width: 50%;
+
+}
